@@ -7,8 +7,9 @@
 ### ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,postgresql,prisma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github" />
 </p>
+
 
 ### 🚀 Atualmente construindo
 

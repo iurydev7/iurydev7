@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou Iury Teixeira
 
-<!--
-**iurydev7/iurydev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer em formação**
+🚀 Construindo projetos e aprendendo todos os dias
+📍 Fortaleza, Brasil
 
-Here are some ideas to get you started:
+### ⚡ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,postgresql,prisma,git,github" />
+</p>
+
+### 🚀 Atualmente construindo
+
+🚲 **VaiDeBike** — aplicação web desenvolvida no Geração Tech 4.0
+
+👕 **TrintaDoze** — e-commerce, automação e soluções digitais
+
+### 📚 Atualmente estudando
+
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL`
+
+### 📫 Conecte-se comigo
+
+[LinkedIn](https://www.linkedin.com/in/iuryteixeira/) • [Instagram](https://www.instagram.com/ansiuury/)
+

@@ -1,27 +1,31 @@
-# 👋 Olá, eu sou Iury Teixeira
+# 👋 Hi, I'm Iury Teixeira
 
-💻 **Full Stack Developer em formação**
-🚀 Construindo projetos e aprendendo todos os dias
-📍 Fortaleza, Brasil
+💻 **Full Stack Developer in progress**
+🚀 Building, learning & evolving
+📍 Fortaleza, Brazil
 
-### ⚡ Tech Stack
+### ⚡ Currently Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github" />
 </p>
 
+### 🚀 Currently Building
 
-### 🚀 Atualmente construindo
+🚲 **VaiDeBike** — Web application developed with Geração Tech 4.0
 
-🚲 **VaiDeBike** — aplicação web desenvolvida no Geração Tech 4.0
+👕 **TrintaDoze** — E-commerce, automation & digital solutions
 
-👕 **TrintaDoze** — e-commerce, automação e soluções digitais
+### 🌱 What I'm Working On
 
-### 📚 Atualmente estudando
+Building real-world projects, improving my programming fundamentals and turning ideas into working software.
 
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL`
+### 🤝 Let's Connect
 
-### 📫 Conecte-se comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/iuryteixeira/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/iuryteixeira/) • [Instagram](https://www.instagram.com/ansiuury/)
 

@@ -12,7 +12,7 @@
 
 ### 🚀 Currently Building
 
-🚲 **VaiDeBike** — Web application developed with Geração Tech 4.0
+🐶 **Pares & Patinhas** — Web application developed with Geração Tech 4.0
 
 👕 **TrintaDoze** — E-commerce, automation & digital solutions
 
